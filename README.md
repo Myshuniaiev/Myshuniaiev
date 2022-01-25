@@ -3,8 +3,7 @@ I'm Oleksii from Ukraine, and I create applications for mobile devices and brows
 
 ## My Techs & Tools
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Python language](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
+![asd](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![Java language](https://img.shields.io/badge/Java%20-%23e66400.svg?&style=for-the-badge&logo=java&ogoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)
 ![JavaScript language](https://img.shields.io/badge/javascript-%23efd81d.svg?&style=for-the-badge&logo=javascript&logoColor=white)
