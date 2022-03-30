@@ -9,3 +9,5 @@ I'm Oleksii from Ukraine, and I create applications for mobile devices and brows
 * React
 * Redux
 * Node.js
+* Angular
+* Vanilla C#
