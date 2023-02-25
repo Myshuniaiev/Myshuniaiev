@@ -1,6 +1,6 @@
-# Oleksii Myshuniaiev
+# Oleksii Myshuniaiev 🇺🇦 🇨🇦
 
-Greetings! My name is Oleksii Myshuniaiev, and I am a software developer with over 3 years of professional experience. I am currently working at Arctiq and ClearCloud corporations, where I have honed my skills in a wide range of technologies, including:
+Greetings! My name is Oleksii Myshuniaiev, and I am a software developer with over 3 years of professional experience. I am originally from Ukraine 🇺🇦 and currently reside in Canada 🇨🇦. I am currently working at Arctiq and ClearCloud corporations, where I have honed my skills in a wide range of technologies, including:
 
 - Javascript (Node.js, React, Redux)
 - Python (Django, Django REST Framework, Flask)
